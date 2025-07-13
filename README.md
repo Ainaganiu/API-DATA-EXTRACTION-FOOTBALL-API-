@@ -15,6 +15,8 @@ Include your RapidAPI key and host in the request headers:
     'x-rapidapi-key': '<YOUR_API_KEY>',
     'x-rapidapi-host': 'v3.football.api-sports.io',
     'Accept': 'application/json'}``
+
+
 ![Data Extraction](https://github.com/Ainaganiu/API-DATA-EXTRACTION-FOOTBALL-API-/blob/main/Pictures/image_1.png)
 
 
