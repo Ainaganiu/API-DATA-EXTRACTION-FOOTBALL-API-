@@ -15,6 +15,7 @@ Include your RapidAPI key and host in the request headers:
     'x-rapidapi-key': '<YOUR_API_KEY>',
     'x-rapidapi-host': 'v3.football.api-sports.io',
     'Accept': 'application/json'}``
+![Data Extraction](https://github.com/Ainaganiu/API-DATA-EXTRACTION-FOOTBALL-API-/blob/main/Pictures/image_1.png)
 
 
 ### How it Works
@@ -25,6 +26,10 @@ Include your RapidAPI key and host in the request headers:
 - If successful, it prints “API Connection Successful” and then dumps the raw JSON payload.
 - If not, it prints a simple error prompt
 
+![Data Collection](https://github.com/Ainaganiu/API-DATA-EXTRACTION-FOOTBALL-API-/blob/main/Pictures/image_2.png)
+
+![Data Loading](https://github.com/Ainaganiu/API-DATA-EXTRACTION-FOOTBALL-API-/blob/main/Pictures/image_3.png)
+
 
 ### Next Steps
 
@@ -32,3 +37,11 @@ Include your RapidAPI key and host in the request headers:
 - Add error handling for network failures or unexpected JSON structures.
 - Store results in a CSV or database for further analysis.
 - Visualize the top scorers using a charting library such as Matplotlib, excel or Seaborn.
+
+![Data Output](https://github.com/Ainaganiu/API-DATA-EXTRACTION-FOOTBALL-API-/blob/main/Pictures/image_4.png)
+
+## Check Out Code of the Project
+
+[Click to Check it Out](https://github.com/Ainaganiu/API-DATA-EXTRACTION-FOOTBALL-API-/blob/main/Code/football.ipynb)
+
+THANK YOU FOR CHECKING!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!11
