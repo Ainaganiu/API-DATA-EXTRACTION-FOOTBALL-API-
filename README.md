@@ -11,10 +11,10 @@ The script uses the following URL: ```https://v3.football.api-sports.io/players/
 
 ** Headers **
 Include your RapidAPI key and host in the request headers: 
-```headers = {
+``headers = {
     'x-rapidapi-key': '<YOUR_API_KEY>',
     'x-rapidapi-host': 'v3.football.api-sports.io',
-    'Accept': 'application/json'}```
+    'Accept': 'application/json'}``
 
 
 ### How it Works
